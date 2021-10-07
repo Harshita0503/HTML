@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+        body  {
+             background-image:url("https://images.unsplash.com/photo-1454372182658-c712e4c5a1db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+               background-repeat:no-repeat;
+              background-size:cover;
+    </style>
+  </head>
+   <br>
+     <h1>Hello World!</h1>
+     <p>Here, a background image is repeated only horizontally!</p>
+   </body>
+</html>
+   
